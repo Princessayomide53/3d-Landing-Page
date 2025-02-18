@@ -21,7 +21,7 @@ const Archives = (props: Props) => {
       </div>
 
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Double Chair</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
@@ -31,7 +31,7 @@ const Archives = (props: Props) => {
       </div>
 
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Orb Vase</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
@@ -41,7 +41,7 @@ const Archives = (props: Props) => {
       </div>
 
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Arc Table</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
@@ -51,7 +51,7 @@ const Archives = (props: Props) => {
       </div>
 
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Grid Shelving</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
@@ -60,7 +60,7 @@ const Archives = (props: Props) => {
         </div>
       </div>
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Halo Pendant</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
@@ -70,7 +70,7 @@ const Archives = (props: Props) => {
       </div>
 
       <div className='archive-item'>
-        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Ripple Bench</h2>
+        <h2 className='text-[120px] font-300 text-[#4f4f4f]'>Flow Chair</h2>
         <div className='archive-info w-full p-[1em] flex justify-around items-center'>
           <p className='uppercase text-[#4f4f4f]'>US / EU</p>
           <p className='uppercase text-[#4f4f4f]'>Design Concept</p>
