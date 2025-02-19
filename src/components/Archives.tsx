@@ -99,7 +99,7 @@ const Archives = () => {
           <p className='uppercase text-[#4f4f4f]'>Outdoor</p>
         </div>
       </div>
-      <div className='archive-item hidden md:block xl:hidden'>
+      <div className='archive-item md:block xl:hidden'>
         <h2 className='text-[50px] md:text-[90px] lg:text-[120px] font-300 text-[#4f4f4f]'>
           Chaise Lounge
         </h2>
