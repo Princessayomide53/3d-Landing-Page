@@ -1,8 +1,6 @@
 import React from 'react';
 
-type Props = {};
-
-const Archives = (props: Props) => {
+const Archives = () => {
   return (
     <section className='archive h-[300vh] pt-[8em] lg:pt-[2em] flex flex-col gap-[3em] justify-center items-center text-center'>
       <div className='archive-header italic'>

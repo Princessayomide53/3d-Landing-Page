@@ -90,7 +90,7 @@ export default function Home() {
 
     const floatAmplitude = 0.2;
     const floatSpeed = 1.5;
-    const rotationSpeed = 0.3;
+    // const rotationSpeed = 0.3;
     const isFloating = true;
     let currentScroll = 0;
 
@@ -139,9 +139,9 @@ export default function Home() {
 
     requestAnimationFrame(raf);
 
-    const introSection = document.querySelector('.intro');
-    const archiveSection = document.querySelector('.archive');
-    const outroSection = document.querySelector('.outro');
+    // const introSection = document.querySelector('.intro');
+    // const archiveSection = document.querySelector('.archive');
+    // const outroSection = document.querySelector('.outro');
 
     const splitText = new SplitType('.outro-copy h2', {
       types: 'lines',

@@ -1,8 +1,6 @@
 import React from 'react';
 
-type Props = {};
-
-const Footer = (props: Props) => {
+const Footer = () => {
   return (
     <section className='outro flex flex-col justify-around px-[2em] lg:px-[6em] py-[2em]'>
       <div className='outro-copy'>
