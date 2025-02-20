@@ -2,7 +2,7 @@ import React from 'react';
 
 const Archives = () => {
   return (
-    <section className='archive h-[300vh] pt-[8em] lg:pt-[2em] flex flex-col gap-[3em] justify-center items-center text-center'>
+    <section className='archive h-[300vh] small:h-[240vh] md:h-[300vh] pt-[8em] small:pt-[4em] lg:pt-[2em] flex flex-col gap-[3em] justify-center items-center text-center'>
       <div className='archive-header italic'>
         <p className='uppercase text-[#4f4f4f]'>Collection</p>
       </div>
@@ -110,7 +110,7 @@ const Archives = () => {
           <p className='uppercase text-[#4f4f4f]'>Outdoor</p>
         </div>
       </div>
-      <div className='archive-item hidden md:block lg:hidden'>
+      <div className='archive-item hidden small:block lg:hidden'>
         <h2 className='text-[50px] md:text-[90px] lg:text-[120px] font-300 text-[#4f4f4f]'>
           Windsor Chair
         </h2>

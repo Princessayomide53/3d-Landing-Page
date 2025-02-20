@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className='intro gap-[1em] md:gap-[2em] pt-[12em] md:pt-[7em] lg:pt-0 flex flex-col justify-center p-[1em]'>
+    <section className='intro gap-[1em] md:gap-[2em] pt-[12em] small:pt-[14em] md:pb-0 md:pt-[7em] lg:pt-[2em] flex flex-col justify-center p-[1em]'>
       <div className='header-row flex gap-[2em] items-center'>
         <h1>Spaces for</h1>
       </div>
